@@ -1,0 +1,19 @@
+{
+  "name": "rollup-plugin-generate-daily",
+  "version": "1.0.0",
+  "description": "根据项目git log自动生成日报或者周报",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vite": "^5.2.8"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.5",
+    "ts-node": "^10.9.2"
+  }
+}
